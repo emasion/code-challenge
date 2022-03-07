@@ -4,7 +4,7 @@ import Coins from "./Coins";
 
 function Router() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/code-challenge/">
             <Switch>
                 <Route path="/:coinId">
                     <Coin/>
