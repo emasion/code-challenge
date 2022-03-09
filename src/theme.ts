@@ -5,9 +5,3 @@ export const lightTheme:DefaultTheme = {
     bgColor: "whitesmoke",
     activeColor: "#1770ab"
 }
-
-export const darkTheme:DefaultTheme = {
-    textColor: "#efefef",
-    bgColor: "#333",
-    activeColor: "#75bde8"
-}
